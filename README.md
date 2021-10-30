@@ -1,3 +1,3 @@
 # CPP_TUTORIAL
 
-gcc main.c -o output
+g++ main.cpp -o output
